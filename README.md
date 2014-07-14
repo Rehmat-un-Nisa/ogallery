@@ -10,8 +10,8 @@ It also includes server-side web-service written in PHP using Codeigiter framewo
 
 | *Server-Side*          | *Client-Side*                | 
 | ---------------------- | ---------------------------- |
-| PHP >= 5               | Enabled JavaScript           |
-| MySQL >= 4             | Android phone                |
+| PHP >= 5               | Android phone                |
+| MySQL >= 4             |                              |
 
 ## Stuff used in this source-code
 
@@ -28,13 +28,13 @@ Ruby 1.9.3
 
 ## References
 
-- CodeIgniter Rest Server
+- CodeIgniter Rest Server<br/>
 [https://github.com/chriskacerguis/codeigniter-restserver](https://github.com/chriskacerguis/codeigniter-restserver)
 
-- Mosaic image gallery with Sencha Touch 2.2
+- Mosaic image gallery with Sencha Touch 2.2<br/>
 [http://innofied.com/mosaic-image-gallery-with-sencha-touch-2-2/](http://innofied.com/mosaic-image-gallery-with-sencha-touch-2-2/)
 
-- Cross-platform BarcodeScanner for Cordova
+- Cross-platform BarcodeScanner for Cordova<br/>
 [https://github.com/wildabeast/BarcodeScanner](https://github.com/wildabeast/BarcodeScanner)
 
 ## Licence
