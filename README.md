@@ -6,6 +6,14 @@ It allows a user to register, login to member-area and logout of mobile applicat
 
 It also includes server-side web-service written in PHP using Codeigiter framework. The web-service handles session management and sessions are stored in database.
 
+## Screenshots
+
+<img src="https://raw.githubusercontent.com/msaads/ogallery/master/screenshots/SC20140714-235447.png">
+<img src="https://raw.githubusercontent.com/msaads/ogallery/master/screenshots/SC20140714-235454.png">
+<img src="https://raw.githubusercontent.com/msaads/ogallery/master/screenshots/SC20140714-235530.png">
+<img src="https://raw.githubusercontent.com/msaads/ogallery/master/screenshots/SC20140714-235916.png">
+<img src="https://raw.githubusercontent.com/msaads/ogallery/master/screenshots/SC20140715-000342.png">
+
 ## Requirements
 
 | *Server-Side*          | *Client-Side*                | 
